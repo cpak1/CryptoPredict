@@ -1,3 +1,8 @@
+pip install yfinance
+pip install plotly
+pip install pandas
+pip install numpy
+
 # Raw Package
 import numpy as np
 import pandas as pd
