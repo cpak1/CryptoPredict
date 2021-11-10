@@ -1,6 +1,7 @@
+channels:
+    - conda-forge
 dependencies:
-  - pandas
-  - numpy
-  - yfinance
-  - plotly
- 
+    - pandas
+    - numpy
+    - yfinance
+    - plotly
