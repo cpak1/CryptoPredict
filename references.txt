@@ -2,15 +2,11 @@ https://github.com/cpak1/CryptoPredict
 
 https://mybinder.org/v2/gh/cpak1/CryptoPredict/1c785ae14e77fea87fe22e52aa44cfea3b382ba0?urlpath=lab%2Ftree%2Ftest1.ipynb
 
-
 https://levelup.gitconnected.com/how-i-tripled-my-return-on-bitcoin-using-mathematics-algorithms-and-python-347edd9b5625
-
 
 https://medium.com/analytics-vidhya/python-i-have-tested-a-trading-mathematical-technic-in-realtime-658a80381151
 
 https://medium.com/analytics-vidhya/deploying-jupyter-notebook-as-a-web-app-with-heroku-d157b68bcccc
-
-
 
 https://towardsdatascience.com/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca
 
@@ -18,3 +14,12 @@ https://elements.heroku.com/buttons/heroku/heroku-jupyter
 
 https://mybinder.org/
 https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md
+
+
+requirements.txt (build environment dependencies settings)
+
+   
+pip install pandas
+pip install numpy
+pip install yfinance
+pip install plotly
