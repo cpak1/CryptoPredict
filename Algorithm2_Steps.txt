@@ -1,3 +1,10 @@
+# Python algorithm to predict market movement using the Bollinger Band math equation to identify the gap between theory and reality of currency movements.
+# Bollinger Bands represent a key technical trading tool for financial traders. Bollinger Bands are an indicator of volatility. This mathematical technic uses the normal distribution to predict market movement.
+# There is 97.5% of chance that a share price is going up if we reach - 1.96 x σ(1), and conversely, there is 97.5% of chance for a share price to go down if we reached a value of + 1.96 x σ(1)
+# (1): σ is the standard deviation of the 20 latest periods.
+# As a result, Bollinger Bands can be used to draw a buying signal line which will be located at -1.96 times the standard deviation of the 20 last period, and a selling signal line which will be located at +1.96 times the standard deviation.
+
+
 # Raw Package
 import numpy as np
 import pandas as pd
