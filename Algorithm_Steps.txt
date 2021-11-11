@@ -1,3 +1,13 @@
+# Crypto market prediction algorithm based on the Golden cross and Death cross indicators (derivative of the moving averages, also called cross indicators). 
+# The concept will consist of combining two moving averages (a short and long term) to get the cryptocurrency trend. The buying or selling signals will occur when either the short-term moving average exceeds or recaps the long-term moving average.
+
+# Process:
+# 1) query live cryptocurrencies data
+# 2) define a period of time, create new columns for our calculated fields, and update these values each second.
+# 3) draw this graph live, and check if our signals are accurate.
+
+
+
 # 1 - ########################################################
 import numpy as np
 import pandas as pd
